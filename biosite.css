@@ -68,7 +68,7 @@ figure{
 figcaption {
     border-bottom: rgb(138, 138, 138);;
     border-bottom-style: solid;
-    border-bottom-width: 1px;
+    border-bottom-width: .5px;
 }
 
 .float_left {
