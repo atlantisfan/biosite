@@ -46,7 +46,7 @@ h4 {
     }
 #center {
     margin: auto;
-    width: 60%;
+    max-width: 800px;
     min-width: 800px;
     height: 100%;
     background: white;
@@ -66,7 +66,11 @@ h4 {
 figure{
     margin:5px;
     padding: 5px;
-
+}
+figcaption {
+    border-bottom: rgb(138, 138, 138);;
+    border-bottom-style: solid;
+    border-bottom-width: .5px;
 }
 .float_left {
     float: left;
@@ -98,7 +102,7 @@ figcaption {
     height: 30px;
     margin: auto;
     padding-top: 10px;
-    width: 60%;
+    max-width: 800px;
     min-width: 800px;
     background-color: #ff0000;
     border-left-color: rgb(138, 138, 138);
