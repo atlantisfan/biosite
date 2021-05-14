@@ -56,6 +56,7 @@ h4 {
     border-right-style: solid;
     border-left-width: .5px;
     border-right-width: .5px;
+    box-shadow: 2px 0px 3px #696969;
 }
 .content {
     padding: 10px;
@@ -85,12 +86,14 @@ img {
     height: 350px;
     width: 235px;
     border-radius: 10px;
+    box-shadow: 2px 2px 3px #696969;
     }
 .landscape_img {
     padding: 0;
     height:235px; 
     width: 350px;
     border-radius: 10px;
+    box-shadow: 2px 2px 3px #696969;
     }
 figcaption {
     font-style: italic;
@@ -113,6 +116,7 @@ figcaption {
     border-left-width: .5px;
     border-bottom-width: 1px;
     border-right-width: .5px;
+    box-shadow: 2px 0px 3px #696969;
 }
 
 a.nav_bar:link {
@@ -138,6 +142,7 @@ a:hover {
     background-color: #fdfff2;
 }
 a:visited {
-    color: #130066;
+    color:#ffffff ;
+    background-color:  #ff0000;
 }
 
